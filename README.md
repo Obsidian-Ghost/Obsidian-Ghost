@@ -1,14 +1,21 @@
-## Vaishnav Here !!
-Student @ [RTC](https://rathinamtechnicalcampus.com/)
-<img align="right" width="300" height="290" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-- 🔭 Here's my [portfolio](..)                                                 
-- 🌱 I’m currently learning DSA
-- 🎮 A Passionate Gamer
-- 📫 How to reach me :
-<br /><br /> [<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vaishnav.exe?igsh=a3k1djBvN2htY3pr) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dev-vaishnav/)
+# 💫 About Me:
+🌱 I’m currently learning DSA<br>🎮 A Passionate Gamer
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishnav.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-vaishnav) 
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dev-vaishnav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-vaishnav&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vaishnav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dev-vaishnav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
