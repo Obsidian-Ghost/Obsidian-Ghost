@@ -1,80 +1,90 @@
+<!-- Modern GitHub Profile README by Vaishnav -->
 
 <div align="center">
-
-<!-- Animated hacker-style header -->
-</h1><h2 align="center">
+  
+  <!-- Animated Name Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Greetings, fellow coders!%22);Vaishnav Here 😎;&center=true&size=26&width=800&color=000000&vCenter=true&font=JetBrains%20Mono&duration=2000&pause=700" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Greetings,%20fellow%20coders!%22);Vaishnav%20Here%20😎&center=true&size=23&width=600&color=3B82F6&vCenter=true&font=JetBrains%20Mono&duration=2000&pause=700" />
+  </a>
 
-</h2>
-
-###
-
-<!-- Animated backend developer tagline -->
-<h2 align="center">
+  <!-- Animated Developer Description -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+A+Passionate+Backend+Developer;🏗️+Building+Scalable+Systems;🧠✨+Crafting+Efficient+Code&center=true&size=22&width=800&color=000000&vCenter=true&font=JetBrains%20Mono&duration=2000&pause=700" />
-
-</h2>
-
-###
-
-<div align="center">
-  <img height="350" src="./assets/ar.gif" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+A+Passionate+Backend+Developer;🏗️+Building+Scalable+Systems;🧠✨+Crafting+Efficient+Code&center=true&size=20&width=600&color=6366F1&vCenter=true&font=JetBrains%20Mono&duration=2000&pause=700" />
+  </a>
+  
+  <!-- Profile Banner GIF -->
+  <img src="./assets/ar.gif" height="320" alt="Developer Animation" style="border-radius:10px; margin: 20px 0;" />
+  
+  <!-- Decorative Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-###
-
-<h3 align="left" style="color: white;">🌐 Social :</h3>
-
-###
+## 🌐 Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/dev-vaishnav/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:vaishnav2346@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mailto:vaishnav2346@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
-###
+## 👨‍💻 Tech Stack
 
-<h3 align="left" style="color: white;">👨🏻‍💻 Languages and Tools :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+<div align="center">
+  
+  ### Languages & Frameworks
+  
+  <div>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  </div>
+  
+  ### Databases & Infrastructure
+  
+  <div>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  </div>
+  
+  ### DevOps & Tools
+  
+  <div>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </div>
 </div>
 
-###
+<!-- Decorative Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="left" style="color: white;">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats
 
-###
+<div align="center">
+  <a href="https://github.com/obsidian-ghost">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=obsidian-ghost&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </a>
+  
+  <a href="https://github.com/obsidian-ghost">
+    <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=obsidian-ghost&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=obsidian-ghost&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="165" alt="languages graph" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=obsidian-ghost&theme=dark&hide_border=false" height="165" alt="streak graph" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=obsidian-ghost&bg_color=ffffff&color=4c68d7&line=4c68d7&point=ff897a&area=true&hide_border=true" width="100%">
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=obsidian-ghost&style=flat-square&color=blue" alt="Profile Views Counter" />
+</div>
+
+<!-- Decorative Footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 </div>
