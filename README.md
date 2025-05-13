@@ -1,10 +1,10 @@
 
-<div align="center" style="background-color: #000000; padding: 20px;">
+<div align="center">
 
 <!-- Animated hacker-style header -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Greetings, fellow coders!%22);Vaishnav Here 😎;&center=true&size=28&width=800&height=50&color=00FF00&vCenter=true&font=Fira%20Code&duration=1800&pause=750" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Greetings, fellow coders!%22);Vaishnav Here 😎;&center=true&size=28&width=800&height=50&color=000000&vCenter=true&font=Fira%20Code&duration=1800&pause=750" />
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
 <!-- Animated backend developer tagline -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+A+Passionate+Backend+Developer;🏗️+Building+Scalable+Systems;🧠✨+Crafting+Efficient+Code&center=true&size=22&width=800&color=19F9D8&vCenter=true&font=JetBrains%20Mono&duration=2000&pause=700" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+A+Passionate+Backend+Developer;🏗️+Building+Scalable+Systems;🧠✨+Crafting+Efficient+Code&center=true&size=22&width=800&color=000000&vCenter=true&font=JetBrains%20Mono&duration=2000&pause=700" />
 
 </h2>
 
