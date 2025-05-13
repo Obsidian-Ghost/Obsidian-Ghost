@@ -9,7 +9,7 @@
 
   <!-- Animated Developer Description -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+A+Passionate+Backend+Developer;🏗️+Building+Scalable+Systems;🧠✨+Crafting+Efficient+Code&center=true&size=20&width=600&color=6366F1&vCenter=true&font=JetBrains%20Mono&duration=2000&pause=700" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+A+Passionate+Backend+Developer;🏗️+Building+Scalable+Systems;🧠✨+Crafting+Efficient+Code&center=true&size=20&width=600&color=000000&vCenter=true&font=JetBrains%20Mono&duration=2000&pause=700" />
   </a>
   
   <!-- Profile Banner GIF -->
