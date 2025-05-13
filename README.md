@@ -68,11 +68,11 @@
 
 <div align="center">
   <a href="https://github.com/obsidian-ghost">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=obsidian-ghost&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=obsidian-ghost&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" alt="Most Used Languages" />
   </a>
   
   <a href="https://github.com/obsidian-ghost">
-    <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=obsidian-ghost&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=obsidian-ghost&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
