@@ -15,9 +15,6 @@
   <!-- Profile Banner GIF -->
   <img src="./assets/ar.gif" height="320" alt="Developer Animation" style="border-radius:10px; margin: 20px 0;" />
   
-  <!-- Decorative Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 🌐 Connect With Me
 
